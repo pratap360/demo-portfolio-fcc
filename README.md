@@ -2,7 +2,7 @@
 
 code in action 
 
-### [Link 1](https://pratap360.github.io/demo-portfolio-fcc)
+### [Link 1](https://pratap360.github.io/demo-portfolio-fcc/)
 
 or 
 
